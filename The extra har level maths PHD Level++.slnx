@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="The extra har level maths PHD Level++/The extra har level maths PHD Level++.vcxproj" Id="1f0a3c56-9d2f-4872-8e53-7e8199fc1e30" />
+  <Project Path="MathEngineRunner/MathEngineRunner.vcxproj" Id="4d1cf2f3-13f8-4f6d-b0aa-1f8c5765c1e4" />
+</Solution>
